@@ -7,3 +7,7 @@ elsif score >= 60
 else
   puts "불합격입니다."
 end
+
+if true then
+  puts "O"
+end
